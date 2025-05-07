@@ -1,4 +1,4 @@
-## Part 2 - Buttons, Entry and Setting Components Options
+## Lesson 2 - Buttons, Entry and Setting Components Options
 
 **Creating a button**
 
