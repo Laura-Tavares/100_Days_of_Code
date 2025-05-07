@@ -1,4 +1,4 @@
-### Part 1 - Creating Windows and Labels with Tkinter
+### Lesson 1 - Creating Windows and Labels with Tkinter
 
 **Import the Tkinter module:**
 
