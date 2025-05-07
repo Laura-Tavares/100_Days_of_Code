@@ -4,5 +4,5 @@
 
 ## Lesson topics
 
-
+- Lesson 1 - Creating Windows and Labels with Tkinter
 - Lesson 3 - Radiobuttons, Scales, Checkbuttons and more
