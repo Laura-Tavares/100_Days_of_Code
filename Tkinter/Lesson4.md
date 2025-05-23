@@ -27,10 +27,11 @@ Grid puts the widgets in a 2-dimensional table. The master widget is split into 
 
 Example: You want to set the label, buttom and entry to be on a diagonal. For that you'll:
 
+```
 my_label.grid(column = 0, row = 0)
 button.grid(column = 1, row = 1)
 input.grid(column = 2, row = 2)
-
+```
 
 *Note: grid and place are not compatiple*
 
